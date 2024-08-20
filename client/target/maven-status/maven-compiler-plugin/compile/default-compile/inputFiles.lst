@@ -1,0 +1,15 @@
+D:\degree\SPL\SPL3\client\src\main\java\bgu\spl\net\impl\tftp\TftpProtocol.java
+D:\degree\SPL\SPL3\client\src\main\java\bgu\spl\net\impl\tftp\Util.java
+D:\degree\SPL\SPL3\client\src\main\java\bgu\spl\net\impl\echo\LineMessageEncoderDecoder.java
+D:\degree\SPL\SPL3\client\src\main\java\bgu\spl\net\impl\tftp\PacketType.java
+D:\degree\SPL\SPL3\client\src\main\java\bgu\spl\net\api\MessagingProtocol.java
+D:\degree\SPL\SPL3\client\src\main\java\bgu\spl\net\impl\echo\EchoProtocol.java
+D:\degree\SPL\SPL3\client\src\main\java\bgu\spl\net\impl\tftp\TftpEncoderDecoder.java
+D:\degree\SPL\SPL3\client\src\main\java\bgu\spl\net\api\MessageEncoderDecoder.java
+D:\degree\SPL\SPL3\client\src\main\java\bgu\spl\net\impl\tftp\TftpClient.java
+D:\degree\SPL\SPL3\client\src\main\java\bgu\spl\net\impl\echo\EchoClient.java
+D:\degree\SPL\SPL3\client\src\main\java\bgu\spl\net\impl\tftp\Listener.java
+D:\degree\SPL\SPL3\client\src\main\java\bgu\spl\net\impl\tftp\Keyboard.java
+D:\degree\SPL\SPL3\client\src\main\java\bgu\spl\net\impl\tftp\Bridge.java
+D:\degree\SPL\SPL3\client\src\main\java\bgu\spl\net\impl\tftp\TerminateCallBack.java
+D:\degree\SPL\SPL3\client\src\main\java\bgu\spl\net\impl\tftp\Config.java
